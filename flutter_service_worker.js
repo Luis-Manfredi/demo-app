@@ -17,14 +17,14 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
+"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5b60117bdc558d08ea2acc8323303452",
-"/": "5b60117bdc558d08ea2acc8323303452",
-"main.dart.js": "a68161a9e1131b3dee98e52f032e00c0",
+"index.html": "ddd82c3184025838061ea54fdbd1cd2a",
+"/": "ddd82c3184025838061ea54fdbd1cd2a",
+"main.dart.js": "dcb235cce9cfc0563dc64ffd2e841a9e",
 "manifest.json": "beb2dad612e8df57307c508b8b20d0dc",
 "version.json": "662fb544e5da1edc0660a7afee52d4fb"
 };
